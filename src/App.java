@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        int age= 24;
+        int age= 4;
         if(age>0 && age<24){
             System.out.println(age +". You are child.");
          } else{
